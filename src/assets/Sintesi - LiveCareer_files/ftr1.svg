@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="614" height="858" viewBox="0 0 614 860" style="margin:0 auto;___background:url(images/mtp1.png) no-repeat center top; _border:1px solid #ccc; background:#fff;">
+	<defs>
+		<style>
+			.h1{font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:22px; text fill:#000000; font-weight:bold; }
+			.p2 {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:11px; fill:#333;}
+			.p3 {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:12px; fill:#333; }
+			.p2b {ffont-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:14px; font-weight:bold; fill:#333;}
+			.h2 {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:14px; fill:#333; font-weight:bold; }
+			.subheding {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:12px; fill:#333; font-weight:bold; }
+			.li-disc {fill:#000000;}
+			.text-cap {text-transform:capitalize;}
+			.fontNormal{font-weight:normal;}
+			.fontBold{font-weight:bold;}
+			.duration{text-anchor:end;}
+			.address{font-size:14px;font-weight:400}
+
+			 
+		</style>
+	</defs>
+	  <!--  <line x1="40" y1="40" x2="580" y2="40" stroke="#65cd46" stroke-width="20"/> -->
+	<text x="247" y="70" class="h1  ">
+		<tspan x="160"   fill="#222">GIOVANNI </tspan> <tspan   fill="#222" class=" ">MICHELINI</tspan>
+	</text>
+	<text x="160" y="90" class="address ffrc   p2">
+	   <tspan x="" dy="0"> 00186 Ancona </tspan> 
+      <tspan x="160" dy="18"> 06-555-5555 </tspan>
+		<tspan x="160" dy="18"></tspan>
+		<tspan x="160" dy="18" class="address-link">giovannimichelini@gmail.com </tspan> 
+	</text> 
+     <image xlink:href="data:image/jpeg;base64,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" x="50" y="50" width="90" height="100" class=" " /> 
+	  
+	  
+  
+     <text x="40" y="170" class="h2">Istruzione e formazione
+       <tspan  class="fontNormal p3" x="60" dy="28"> 2009</tspan>
+    </text>	
+      <line x1="40" y1="179" x2="580" y2="179" stroke="#222" stroke-width="1.5"/>
+	<text x="135" y="179" class="p3">
+         <tspan x="135" dy="18" class="subheding" >Alma Laboris</tspan>
+         <tspan x="584" dy="0" class="duration">Milano(MI)</tspan>
+		<tspan x="135" dy="18" class="subheding" > Master in gestione aziendale : Gestione delle operazioni, </tspan>
+       
+		
+		<tspan x="135" dy="18"> LL carso di studi comeprendeva: tcheniche di comunicazione e oratoeia, sociologia  </tspan>
+        <tspan x="135" dy="18">e psicologia.</tspan>
+   </text>		
+	 <!-- Experience Section-->
+		 <text x="40" y="280" class="h2">Esperienze lavorative e professionali</text>
+		 <line x1="40" y1="289" x2="580" y2="289" stroke="#222" stroke-width="1.5"/>
+        <text x="135" y="310" class="subheding ">
+            <tspan x="135" dy="0">Vodafone italia</tspan>
+			 <tspan x="584" dy="0" class="duration fontNormal">Milano(MI)</tspan>		
+		    <tspan x="135" dy="18" class=" " > Capo area</tspan>
+		    
+		    
+		</text>
+		 <text x="135" y="290" class="subheding">
+		 <tspan x="50" dy="18" class="fontNormal" >09/2009 </tspan>
+		<tspan x="65" dy="18" class="fontNormal" > -  </tspan>
+		<tspan x="50" dy="18" class="fontNormal" >  Actuel</tspan>
+			
+		</text>   
+         <circle cx="148" cy="346" r="2" class="li-disc"></circle>
+		<circle cx="148" cy="399" r="2" class="li-disc"></circle>
+		 <circle cx="148" cy="434" r="2" class="li-disc"></circle>
+		<circle cx="148" cy="472" r="2" class="li-disc"></circle> 
+         <circle cx="148" cy="507" r="2" class="li-disc"></circle>
+		<circle cx="148" cy="544" r="2" class="li-disc"></circle>  
+			 
+             <text x="73" y="350" class="p3">
+				<tspan x="160" dy="0">lniziative destinate allo sviluppo del reclutamento/formozione del  </tspan>
+				<tspan x="160" dy="18">personale per massimizare la produttivita e il potenziale di ricavo   </tspan>
+                 <tspan x="160" dy="18">attraverso lo  sviluppo del team di vendita.</tspan>
+				<tspan x="160" dy="18">Incremento della fidelizzozione dei dipendenti attraverso la cteazione </tspan>
+				<tspan x="160" dy="18">di un ambiente di lavoro positivo in 18 negozi.</tspan>
+				<tspan x="160" dy="18">Amministrazione di attibita giomoliere al fine di garantire I'adesione e lo   </tspan>
+				<tspan x="160" dy="18">comprensione delle politiche aziendali do porte del personale di vendita. </tspan>
+				<tspan x="160" dy="18">Mantenimento di solide relazioni professionali con i clienti al fine di </tspan>
+                <tspan x="160" dy="18"> stimolare lo sviluppo commerciale.</tspan>
+				<tspan x="160" dy="18">PionificaZione e implementazione di iniZiative promoZionali, in colloborazione   </tspan>
+				<tspan x="160" dy="18">con i responsabili delle attivita promozionali.</tspan>
+				<tspan x="160" dy="18">Preparazione del negozio per gli occertamenti interni, attraverso l'analisi/l'  </tspan>
+                <tspan x="160" dy="18">elaborazione delle garanzie di qualita e delle statistiche dei dati   </tspan>
+                <tspan x="160" dy="18">dell'lnventario. </tspan>
+			</text>
+	 <!-- Exp Second Section -->
+	       <text x="135" y="605" class="p3">
+            <tspan x="135" dy="0" class="fontBold">Gruppo PAM S.p.A   </tspan>			 
+			<tspan x="580" dy="0" class="duration fontNormal">Milano(MI)</tspan>		 
+		   <tspan x="135" dy="18" class="fontBold">Direttore operativo</tspan>
+			 
+          	
+		</text>
+		<text x="115" y="590" class="p3">
+				<tspan x="50" dy="18" class="fontNormal">08/1997  </tspan>
+				<tspan x="65" dy="18" class="fontNormal">  -    </tspan>
+				<tspan x="50" dy="18" class="fontNormal"> 09/2009 </tspan>
+		</text>
+		
+		    <circle cx="148" cy="641" r="2"  class="li-disc"></circle>			
+		<circle cx="148" cy="676" r="2" class="li-disc"></circle>			
+		<circle cx="148" cy="712" r="2" class="li-disc"></circle>    
+	     
+     <text x="160" y="645" class="p3">
+		   <tspan x="160" dy="0">Supervisione delle operazioni di apertura/chiusuro per uno filiale delvalore dil 4  </tspan>
+			<tspan x="160" dy="18">miloni di euro,in confarmita con le normotive/procedure aziendoli in vigore all'epoco.   </tspan>
+            <tspan x="160" dy="18">   </tspan>
+			<tspan x="160" dy="18">Gestione dei costi operativi in quolita di responsabiledel monitoroggio dell'  </tspan>
+			<tspan x="160" dy="18">inventario e delle  attivita del reparto spedizioni, e impostazione di obiettivi  salariali.     </tspan>
+              
+			<tspan x="160" dy="18">Amministrazione di processi finaziari,quali queli relotivi al contofomitori/conto </tspan>
+			<tspan x="160" dy="18">ctienti, gestione dell'ufficio contabilita e aggilornamento dei file del setVizlo clienti. </tspan>
+           
+		 
+		 </text> 
+
+       
+   <!-- Education Section-->
+	 
+	   	
+   
+ 	
+</svg> 

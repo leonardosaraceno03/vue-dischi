@@ -1,0 +1,114 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="614" height="980" viewBox="0 0 614 980" style="margin:0 auto; _background:url(img/cont1.png) no-repeat 0 0;">
+	<defs>
+		<style>
+			.h1{font-family:"Century Gothic"; text-transform:uppercase; font-size:36px; fill:#333; font-weight:bold; _fill:red}
+			.p2 {font-family:"Century Gothic"; font-size:10px; fill:#333; _fill:red}
+			.p3 {font-family:"Century Gothic"; font-size:11px; fill:#333; _fill:red}
+			.p2b {font-family:"Century Gothic"; font-size:14px; font-weight:bold; fill:#333; _fill:red}
+			.h2 {font-family:"Century Gothic"; text-transform:uppercase; font-size:12px; fill:#900; font-weight:bold; _fill:red}
+			.subheding {font-family:"Century Gothic"; font-size:11px; fill:#333; font-weight:bold; _fill:red}
+			.li-disc {fill:#000000; _fill:red}
+			.text-cap {text-transform:capitalize;}
+			.fontNormal{font-weight:normal;}
+			.line{stroke:#C33;___stroke:#090;}
+		</style>
+	</defs>
+	
+
+	<text x="41" y="70" class="h1">
+		<tspan dx="3" dy="0" fill="#900" class="fontNormal" >GIOVANNI</tspan>
+		<tspan dx="0" dy="0" fill="#900" >MICHELINI</tspan>
+	</text>
+	<line x1="40" y1="80" x2="571" y2="80" stroke-width="2" stroke="#900" />
+	
+	<text x="40" y="98" class="p2">
+		<tspan x="40" dy="0">00186 Ancona |   06-555-5555  | giovannimichelini@gmail.com</tspan>
+	</text>
+
+	 
+ <text x="40" y="133" class="h2">Istruzione e formazione
+      <tspan  class="subheding" x="40" dy="18"> 2009</tspan>   
+       </text>	
+	<text x="115" y="132" class="p3">
+		<tspan x="157" dy="18" class="subheding" > Master in gestione aziendale : Gestione delle operazioni, </tspan>
+        
+		<tspan x="157" dy="18" class="subheding" >Alma Laboris -</tspan>
+         <tspan dx="2" dy="0">Milano(MI)</tspan>
+		<tspan x="157" dy="18"> LL carso di studi comeprendeva: tcheniche di comunicazione e oratoeia,   </tspan>
+        <tspan x="157" dy="18">sociologia e psicologia.</tspan>
+   </text>	
+   <!-- Experience Section-->
+	<text x="40" y="229" class="h2">Esperienze lavorative e professionali</text>
+	
+		<!-- Exp First Section -->
+	<text x="40" y="229" class="subheding">			
+		<tspan x="41" dy="18">09/2009 - Actuel</tspan>
+	</text>
+	<text x="157" y="250" class="subheding">Capo area</text>
+	<text x="40" y="267" class="subheding">
+		<tspan dx="117" dy="0">Vodafone italia</tspan>
+		<tspan dx="0" dy="0">-</tspan>
+		<tspan dx="8" dy="0" class="fontNormal">Milano (Ml)</tspan>
+	</text>
+		<circle cx="178" cy="286" r="2" class="li-disc"></circle>
+		<circle cx="178" cy="340" r="2" class="li-disc"></circle>
+		<circle cx="178" cy="378" r="2" class="li-disc"></circle>
+		<circle cx="178" cy="413" r="2" class="li-disc"></circle>
+        <circle cx="178" cy="448" r="2" class="li-disc"></circle>
+		<circle cx="178" cy="484" r="2" class="li-disc"></circle>
+            <text x="73" y="290" class="p3">
+				<tspan x="188" dy="0">lniziative destinate allo sviluppo del reclutamento/formozione del  </tspan>
+				<tspan x="188" dy="18">personale per massimizare la produttivita e il potenziale di ricavo   </tspan>
+                 <tspan x="188" dy="18">attraverso lo  sviluppo del team di vendita.</tspan>
+				<tspan x="188" dy="18">Incremento della fidelizzozione dei dipendenti attraverso la cteazione </tspan>
+				<tspan x="188" dy="18">di un ambiente di lavoro positivo in 18 negozi.</tspan>
+				<tspan x="188" dy="18">Amministrazione di attibita giomoliere al fine di garantire I'adesione e lo   </tspan>
+				<tspan x="188" dy="18">comprensione delle politiche aziendali do porte del personale di vendita. </tspan>
+				<tspan x="188" dy="18">Mantenimento di solide relazioni professionali con i clienti al fine di </tspan>
+                <tspan x="188" dy="18"> stimolare lo sviluppo commerciale.</tspan>
+				<tspan x="188" dy="18">PionificaZione e implementazione di iniZiative promoZionali, in colloborazione   </tspan>
+				<tspan x="188" dy="18">con i responsabili delle attivita promozionali.</tspan>
+				<tspan x="188" dy="18">Preparazione del negozio per gli occertamenti interni, attraverso l'analisi/l'  </tspan>
+                <tspan x="188" dy="18">elaborazione delle garanzie di qualita e delle statistiche dei dati   </tspan>
+                <tspan x="188" dy="18">dell'lnventario. </tspan>
+			</text> 
+		<!-- Exp First Section End -->
+		<!-- Exp Second Section -->
+		  <text x="152" y="545" class="p3">	
+			<tspan x="42" dy="0" class="subheding">08/1997 - 09/2009</tspan>
+			<tspan x="157" dy="0" class="subheding">Direttore operativo</tspan>
+		</text> 
+		  <text x="156" y="560" class="subheding">
+		<tspan dx="0" dy="0" class="subheding">Gruppo PAM S.p.A.</tspan>
+		<tspan dx="0" dy="0"> - </tspan>
+		<tspan dx="02" dy="0" class="subheding fontNormal">Milano (Ml)</tspan>
+		</text>  
+		 <circle cx="178" cy="573" r="2"  class="li-disc"></circle>
+		<circle cx="178" cy="627" r="2" class="li-disc"></circle>
+		<circle cx="178" cy="683" r="2" class="li-disc"></circle>  
+		 
+        <text x="188" y="578" class="p3">
+		   <tspan x="188" dy="0">Supervisione delle operazioni di apertura/chiusuro per uno filiale delvalore  </tspan>
+			<tspan x="188" dy="18">dil 4 miloni di euro,in confarmita con le normotive/procedure aziendoli    </tspan>
+            <tspan x="188" dy="18"> in vigore all'epoco.  </tspan>
+			<tspan x="188" dy="18">Gestione dei costi operativi in quolita di responsabiledel monitoroggio dell'  </tspan>
+			<tspan x="188" dy="18">inventario e delle  attivita del reparto spedizioni, e impostazione di obiettivi    </tspan>
+             <tspan x="188" dy="18">    salariali.  </tspan>
+			<tspan x="188" dy="18">Amministrazione di processi finaziari,quali queli relotivi al contofomitori/conto </tspan>
+			<tspan x="188" dy="18">ctienti, gestione dell'ufficio contabilita e aggilornamento dei file del  </tspan>
+            <tspan x="188" dy="18">  setVizlo clienti.</tspan>
+		 
+		 </text> 
+     <!-- Exp Second Section End -->
+  <!-- Education Section-->
+<text x="40" y="735" class="p3">
+          <tspan x="40" class="h2">Certificazioni</tspan> 	
+		<tspan x="188" dy="18">Capo area certificato per il commercio al dettaglio, Vodafone S.p.A.,</tspan> 
+        <tspan x="188" dy="18">luglio 2009.</tspan> 		
+		 			
+	</text>	
+	 	
+	 
+	
+</svg>

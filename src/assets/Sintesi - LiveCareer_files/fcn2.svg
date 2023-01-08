@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="614" height="858" viewBox="0 0 900 1150" style="margin:0 auto;___background:url(images/mtp1.png) no-repeat center top; _border:1px solid #ccc; background:#fff;">
+	<defs>
+		<style>
+			text{font-family:Arial;fill:#222;font-weight:normal; font-size:14px;  }
+			.fsi{font-style:italic;}
+			.name,.contact{fill:#333;}
+			.name,.contact{text-anchor:end;}
+			.name{font-size:35px; font-weight:normal;}
+		    .contact{font-size:16px; font-family:Arial; fill:#000;}
+			.heading{fill:#333;font-size:18px;font-weight:bold; text-transform: uppercase;}
+			.subheading{fill:#003363;font-weight:bold;}
+			.disc{fill:#333;}
+			.fbold{font-weight:bold;}
+			.date{font-size:15px;font-weight:bold;fill:#333;}
+			.p2{font-size:15px;font-weight:bold;fill:#333;}
+			.p2-sub{font-size:19px;fill:#333;}
+			*{___fill:red!important;}
+			.duration,.location{text-anchor:end;}
+		</style>
+	</defs>
+	  
+    <text x="585" y="75" class="name duration">GIOVANNI <tspan class="fbold"> MICHELINI</tspan> </text>
+	<text x="365" y="100" class="contact duration">
+	<tspan x="355" dy="24" class="duration">00186 Ancona </tspan>
+	<tspan x="340" dy="24" class="duration">06-555-5555 </tspan>
+	<tspan x="348" dy="24" class="duration"></tspan>
+	<tspan x="458" dy="24" class="duration">giovannimichelini@gmail.com</tspan>
+	</text>	
+	 <image xlink:href="data:image/jpeg;base64,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" x="700" y="50" width="110" height="138" class="duration"  /> 
+	  
+     <text x="40" y="250" class="heading">Istruzione e formazione
+      <tspan  class="fontNormal" x="40" dy="18"> 2009</tspan>   
+       </text>	
+	<text x="115" y="250" class="p3">
+		<tspan x="235" dy="18" class="p2" > Master in gestione aziendale : Gestione delle operazioni, </tspan>
+        
+		<tspan x="235" dy="18" class="p2" >Alma Laboris -</tspan>
+         <tspan dx="2" dy="0">Milano(MI)</tspan>
+		<tspan x="235" dy="18"> LL carso di studi comeprendeva: tcheniche di comunicazione e oratoeia, sociologia  </tspan>
+        <tspan x="235" dy="18">e psicologia.</tspan>
+   </text>	
+	<text x="33" y="350"> 
+		 <tspan class="heading"> Esperienze lavorative e professionali </tspan>
+		<tspan x="33" dy="24" class="date">09/2009 - Actuel </tspan>
+		<tspan x="235" dy="0" class="p2">Capo area  </tspan>
+		<tspan x="235" dy="24" class="p2" > Vodafone italia - </tspan> <tspan dy="0" class="p">Milano (Ml)</tspan>
+	</text>  
+	   <circle cx="235" cy="418" r="3" class="disc" />
+	<circle cx="235" cy="452" r="3" class="disc" />
+	<circle cx="235" cy="490" r="3" class="disc" />	
+     <circle cx="235" cy="525" r="3" class="disc" /> 
+     <circle cx="235" cy="560" r="3" class="disc" />
+     <circle cx="235" cy="595" r="3" class="disc" />      	
+     
+     <text x="73" y="421" class="p3">
+				<tspan x="252" dy="0">lniziative destinate allo sviluppo del reclutamento/formozione del personale per massimizare la</tspan>
+				<tspan x="252" dy="18"> produttivita e il potenziale di ricavo attraverso lo sviluppo del team di vendita.</tspan>
+				<tspan x="252" dy="18">Incremento della fidelizzozione dei dipendenti attraverso la cteazione di un ambiente di lavoro</tspan>
+				<tspan x="252" dy="18">positivo in 18 negozi.</tspan>
+				<tspan x="252" dy="18">Amministrazione di attibita giomoliere al fine di garantire I'adesione e lo comprensione delle   </tspan>
+				<tspan x="252" dy="18">politiche aziendali do porte del personale di vendita. </tspan>
+				<tspan x="252" dy="18">Mantenimento di solide relazioni professionali con i clienti al fine di stimolare lo sviluppo </tspan>
+                <tspan x="252" dy="18">commerciale.</tspan>
+				<tspan x="252" dy="18">PionificaZione e implementazione di iniZiative promoZionali, in colloborazione con i responsabili   </tspan>
+				<tspan x="252" dy="18">delle attivita promozionali.</tspan>
+				<tspan x="252" dy="18">Preparazione del negozio per gli occertamenti interni, attraverso l'analisi/l' elaborazione delle  </tspan>
+                <tspan x="252" dy="18">garanzie di qualita e delle statistiche dei dati dell'lnventario. </tspan>
+			</text>
+	  <text x="33" y="648" >
+	  <tspan x="33" dy="0" class="date"> 08/1997 - 09/2009</tspan>
+	  <tspan x="235"    dy="0" class="p2"> Direttore operativo </tspan>
+	  <tspan x="235"  dy="24"   class="p2">Gruppo PAM S.p.A. - </tspan> <tspan dy="0" class=""> Milano (Ml) </tspan>
+	 </text>
+	  
+	<circle cx="235" cy="691" r="3" class="disc" />
+	<circle cx="235" cy="726" r="3" class="disc" />
+	<circle cx="235" cy="762" r="3" class="disc" /> 
+	 
+   <text x="210" y="695" class="p">
+			 <tspan x="252" dy="0">Supervisione delle operazioni di apertura/chiusuro per uno filiale delvalore dil 4 miloni di </tspan>
+			<tspan x="252" dy="18"> euro,in confarmita con le normotive/procedure aziendoli in vigore all'epoco.  </tspan>
+			<tspan x="252" dy="18">Gestione dei costi operativi in quolita di responsabiledel monitoroggio dell' inventario e delle </tspan>
+			<tspan x="252" dy="18"> attivita del reparto spedizioni, e impostazione di obiettivi salariali.  </tspan>
+			<tspan x="252" dy="18">Amministrazione di processi finaziari,quali queli relotivi al contofomitori/conto ctienti, gestione</tspan>
+			<tspan x="252" dy="18"> dell'ufficio contabilita e aggilornamento dei file del setVizlo clienti.</tspan>
+    </text> 
+  <text x="33" y="815" class="p3">
+          <tspan x="33" class="heading">Certificazioni</tspan> 	
+		<tspan x="252" dy="18">Capo area certificato per il commercio al dettaglio, Vodafone S.p.A., luglio 2009.</tspan> 	
+		 			
+	</text>	
+   
+   
+ 	
+</svg> 

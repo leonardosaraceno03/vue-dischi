@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="614" height="858" viewBox="0 0 614 860" style="margin:0 auto;___background:url(images/mtp1.png) no-repeat center top; _border:1px solid #ccc; background:#fff;">
+	<defs>
+		<style>
+			.h1{font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:22px; text fill:#000000; font-weight:bold; }
+			.p2 {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:11px; fill:#333;}
+			.p3 {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:12px; fill:#333; }
+			.p2b {ffont-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:14px; font-weight:bold; fill:#333;}
+			.h2 {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:14px; fill:#333; font-weight:bold; }
+			.subheding {font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; font-size:12px; fill:#333; font-weight:bold; }
+			.li-disc {fill:#000000;}
+			.text-cap {text-transform:capitalize;}
+			.fontNormal{font-weight:normal;}
+			.fontBold{font-weight:bold;}
+			.duration{text-anchor:end;}
+			.address{font-size:14px;font-weight:400}
+		</style>
+	</defs>
+	  
+	<text x="247" y="75" class="h1  ">
+		<tspan x="40"   fill="#222">GIOVANNI </tspan> <tspan   fill="#222" class=" ">MICHELINI</tspan>
+	</text>
+	<line x1="40" y1="84" x2="580" y2="84" stroke="#222" stroke-width="2"/> 
+	<line x1="40" y1="94" x2="580" y2="94" stroke="#222" stroke-width="2"/>
+	<text x="582" y="120" class="address ffrc  duration  p2">
+	   <tspan x="" dy="0"></tspan> 
+      <tspan x="582" dy="18"> 00186 Ancona</tspan>
+		<tspan x="580" dy="18">  06-555-5555  </tspan>
+		<tspan dx="3" dy="0"></tspan>
+		<tspan dx="4" dy="0"> </tspan>
+	    <tspan dx="3" dy="0"> | </tspan>  
+		<tspan dx="4" dy="0" class="address-link">giovannimichelini@gmail.com </tspan> 
+	</text> 
+      
+	 
+  <line x1="40" y1="182" x2="580" y2="182" stroke="#222" stroke-width="1.5"/>
+ <text x="40" y="175" class="h2">Istruzione e formazione
+       
+       </text>	
+	<text x="115" y="180" class="p3">
+		<tspan x="40" dy="18" class="subheding" > Master in gestione aziendale : Gestione delle operazioni, </tspan>
+        <tspan  class="fontNormal" dx="2" dy="0"> 2009</tspan>  
+		<tspan x="40" dy="18" class="subheding" >Alma Laboris -</tspan>
+         <tspan dx="2" dy="0">Milano(MI)</tspan>
+		<tspan x="40" dy="18"> LL carso di studi comeprendeva: tcheniche di comunicazione e oratoeia, sociologia e psicologia.  </tspan>
+        <tspan x="40" dy="18"></tspan>
+   </text>		
+	 <!-- Experience Section-->
+		 <text x="40" y="260" class="h2">Esperienze lavorative e professionali</text>
+		 <line x1="40" y1="269" x2="580" y2="269" stroke="#222" stroke-width="1.5"/>  
+        <text x="40" y="285" class="subheding ">
+           <tspan x="40" dy="0" class="fontBold" > Capo area</tspan>		
+		    <tspan x="40" dy="18" class="fontNormal" >09/2009 - Actuel</tspan>
+			<tspan x="40" dy="18">Vodafone italia -</tspan>
+			 <tspan dx="2" dy="0" class="fontNormal">Milano(MI)</tspan>
+		</text>
+		    
+          <circle cx="68" cy="336" r="2" class="li-disc"></circle>
+		<circle cx="68" cy="372" r="2" class="li-disc"></circle>
+		 <circle cx="68" cy="408" r="2" class="li-disc"></circle>
+		<circle cx="68" cy="442" r="2" class="li-disc"></circle>   
+		<circle cx="68" cy="480" r="2" class="li-disc"></circle>   
+		<circle cx="68" cy="515" r="2" class="li-disc"></circle>   
+			
+			 
+            <text x="73" y="340" class="p3">
+				<tspan x="80" dy="0">lniziative destinate allo sviluppo del reclutamento/formozione del personale per massimizare la  </tspan>
+				<tspan x="80" dy="18">produttivita e il potenziale di ricavo attraverso lo  sviluppo del team di vendita.   </tspan>
+                <tspan x="80" dy="18">Incremento della fidelizzozione dei dipendenti attraverso la cteazione di un ambiente di lavoro  </tspan>
+				<tspan x="80" dy="18">positivo in 18 negozi.</tspan>
+				<tspan x="80" dy="18">Amministrazione di attibita giomoliere al fine di garantire I'adesione e lo comprensione delle politiche   </tspan>
+				<tspan x="80" dy="18"> aziendali do porte del personale di vendita. </tspan>
+				<tspan x="80" dy="18">Mantenimento di solide relazioni professionali con i clienti al fine di stimolare lo sviluppo </tspan>
+                <tspan x="80" dy="18"> commerciale.</tspan>
+				<tspan x="80" dy="18">PionificaZione e implementazione di iniZiative promoZionali, in colloborazione con i responsabili   </tspan>
+				<tspan x="80" dy="18">delle attivita promozionali.</tspan>
+				<tspan x="80" dy="18">Preparazione del negozio per gli occertamenti interni, attraverso l'analisi/l' elaborazione delle   </tspan>
+                <tspan x="80" dy="18">garanzie di qualita  e delle statistiche dei dati dell'lnventario.   </tspan>
+                
+			</text>
+	 <!-- Exp Second Section -->
+	      <text x="40" y="560" class="p3">	
+		    <tspan x="40" dy="0" class="fontBold">Direttore operativo</tspan>
+			<tspan x="40" dy="18" class="fontNormal">08/1997 - 09/2009 </tspan>
+          	 <tspan x="40" dy="18" class="fontBold">Gruppo PAM S.p.A -</tspan>			 
+			<tspan dx="2" dy="0" class="duration fontNormal">Milano(MI)</tspan>
+			 
+		</text>  
+		 
+      <circle cx="68" cy="611" r="2"  class="li-disc"></circle>			
+		<circle cx="68" cy="646" r="2" class="li-disc"></circle>			
+		<circle cx="68" cy="682" r="2" class="li-disc"></circle> 
+       <text x="80" y="615" class="p3">
+		   <tspan x="80" dy="0">Supervisione delle operazioni di apertura/chiusuro per uno filiale delvalore dil 4 miloni di euro,in  </tspan>
+			<tspan x="80" dy="18">confarmita con le normotive/procedure aziendoli in vigore all'epoco.   </tspan>
+			<tspan x="80" dy="18">Gestione dei costi operativi in quolita di responsabiledel monitoroggio dell'inventario e delle  attivita  </tspan>
+			<tspan x="80" dy="18"> del reparto spedizioni, e impostazione di obiettivi  salariali.     </tspan>
+			<tspan x="80" dy="18">Amministrazione di processi finaziari,quali queli relotivi al contofomitori/conto ctienti, gestione </tspan>
+			<tspan x="80" dy="18"> dell'ufficio contabilita e aggilornamento dei file del setVizlo clienti. </tspan>
+           
+		 
+		 </text> 
+    <line x1="40" y1="738" x2="580" y2="738" stroke="#222" stroke-width="1.5"/>
+      <text x="40" y="730" class="p3">
+          <tspan x="40" class="h2">Certificazioni</tspan> 	
+          
+		<tspan x="40" dy="26">Capo area certificato per il commercio al dettaglio, Vodafone S.p.A., luglio 2009.</tspan> 	
+		 			
+	</text>
+   <!-- Education Section-->
+	 
+	  	
+   
+ 	
+</svg> 
